@@ -56,7 +56,7 @@ public class PowerPill
 
     /**
      * mutates the value of name
-     * @param name
+     *
      */
     public void setName(String name)
     {
