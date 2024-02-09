@@ -54,8 +54,10 @@ public class PowerPill
         return power;
     }
 
-
-
+    /**
+     * mutates the value of name
+     * @param name
+     */
     public void setName(String name)
     {
         this.name = name;
